@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrián Fernández
-- 🌱 I’m currently learning programming video games
+- 🌱 I would like to be in a close future a good front-end developer
 - 📫 How to reach me a2004fm@gmail.com
 
 <!---
